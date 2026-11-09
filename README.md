@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! Meu nome é Bernardo, eu sou um programador iniciante.</h2>
+<h2 data-importer="text" align="left">Olá 👋! Meu nome é Bernardo, eu sou um programador iniciante.</h2>
 
 ###
 
